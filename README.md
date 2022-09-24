@@ -13,10 +13,10 @@
 <!--<a href="https://twitter.com/I_am_techsol">
   <img align="left" alt=Faith's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>-->
-<a href="https://www.linkedin.com/in/faith-adeoti-ab2131114/">
+<a href="https://www.linkedin.com/in/faith-adeoti">
   <img align="left" alt="Faith's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Techso">
+<a href="https://github.com/TechGospel">
   <img align="left" alt="Faith's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a mailto:"faithadeoti21@gmail.com">
